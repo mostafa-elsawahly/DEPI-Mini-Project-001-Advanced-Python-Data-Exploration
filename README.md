@@ -1,3 +1,4 @@
+
 # Superstore Retail Analytics & Automated Reporting
 
 **Author:** Mostafa Elsawahly
@@ -6,6 +7,19 @@
 ## Business Scenario
 
 A multinational retail company required an automated analytical solution to monitor sales, profitability, customer behavior, and operational performance. This project delivers a comprehensive end-to-end data pipeline, transforming raw retail data into actionable business insights using advanced Python programming.
+
+## Key Business Questions Answered
+
+1. **Seasonality:** What is the monthly seasonality of order volumes and sales throughout the year?
+2. **Category Performance:** Which product categories generate the highest profit margins, and which are underperforming?
+3. **Regional Deficits:** Why is the Furniture category causing significant financial losses specifically in the Central region?
+4. **Discount Impact:** What is the statistical correlation between applied discounts and overall profitability?
+5. **Logistics Efficiency:** How does the choice of shipping mode impact the average shipping duration (in days)?
+6. **Geospatial Distribution:** Which US states contribute the highest and lowest to overall operational profit?
+7. **Customer Value:** Who are the Top 10 most valuable customers based on their lifetime monetary contribution (RFM Segmentation)?
+8. **Operational Peaks:** Which days of the week experience the highest frequency of customer orders?
+9. **Volume vs. Profit:** Does a higher order quantity mathematically correlate with increased financial returns?
+10. **Pricing Strategy:** How do different discount buckets (Low, Medium, High) directly affect the average profit per transaction?
 
 ## Technical Stack
 
